@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+section{
+    border: 5px solid gray;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+.center {
+border: 5px solid gray; 
+max-width: 500px; 
+width: 100px;
+height: 100px;
+margin: auto;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+</style>
+</head>
+</html>
